@@ -9,7 +9,7 @@ const Hero3 = () => {
                 <div className="flex justify-center">
                     <Image
                         src={"/images/hero3logo/hero3.png"}
-                        width={1500} 
+                        width={1400} 
                         height={600} 
                         alt="images"
                         className="w-full max-w-screen-lg h-auto object-cover object-center rounded mb-10"
